@@ -7,6 +7,7 @@ Security assessments of AI-assisted systems and LLM-integrated tools.
 | # | Target | Findings | Date |
 |---|--------|----------|------|
 | 001 | [AI-Assisted Development Environment](001-ai-dev-environment.md) | 1 Critical, 2 High, 1 Medium | April 2026 |
+| 002 | [CIN Internal Infrastructure Scan](internal-scan-2026-04-10.md) | 2 Critical, 4 High, 3 Medium | April 2026 |
 
 ## Methodology
 
